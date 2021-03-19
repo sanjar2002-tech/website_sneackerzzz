@@ -1,0 +1,54 @@
+{
+"users":[
+    {
+       "id":101,
+       "email":"rassulnurdylda@gmail.com",
+       "password":"Qwerty123!"
+    },
+    {
+        "id":102,
+        "email":"andreipetrov@gmail.com",
+        "password":"Sasha!1214"
+     },
+     {
+        "id":103,
+        "email":"kairatnurtas@gmail.com",
+        "password":"Kairatnumber1$"
+     },
+     {
+        "id":104,
+        "email":"irinakairatkyzy@gmail.com",
+        "password":"2020Nawnaw$"
+     },
+     {
+        "id":105,
+        "email":"moldanazarofficial@gmail.com",
+        "password":"Alystama777@"
+     },
+     {
+        "id":106,
+        "email":"Aikyn@gmail.com",
+        "password":"Pahpah001!"
+     },
+     {
+        "id":107,
+        "email":"realscrip@gmail.com",
+        "password":"Chistyi1!"
+     },
+     {
+        "id":108,
+        "email":"ilonmusk@gmail.com",
+        "password":"Tesla101@"
+     },
+     {
+        "id":109,
+        "email":"Alpamys@gmail.com",
+        "password":"Batyr888@"
+     },
+     {
+        "id":111,
+        "email":"Nazarbayev@gmail.com",
+        "password":"Nursultan111!"
+     }
+]
+}

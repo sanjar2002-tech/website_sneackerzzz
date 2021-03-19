@@ -1,0 +1,263 @@
+{
+    "Adidas": [
+        {
+            "id": 1,
+            "name": "Yeezy Boost 350",
+            "price": 359
+        },
+        {
+            "id": 2,
+            "name": "ZX 2K BOOST SHOES",
+            "price": 150
+        },
+        {
+            "id": 3,
+            "name": "STAN SMITH SHOES",
+            "price": 85
+        },
+        {
+            "id": 4,
+            "name": "NMD_R1 PRIMEKNIT SHOES",
+            "price": 180
+        },
+        {
+            "id": 5,
+            "name": "PRO BOOST LOW SHOES",
+            "price": 67
+        },
+        {
+            "id": 6,
+            "name": "HARDEN VOL. 5 FUTURENATURAL WELCOME TO BKLYN SHOES",
+            "price": 130
+        },
+        {
+            "id": 7,
+            "name": "NMD_R1 PRIMEKNIT SHOES",
+            "price": 180
+        },
+        {
+            "id": 8,
+            "name": "ZX 2K BOOST SHOES",
+            "price": 150
+        },
+        {
+            "id": 9,
+            "name": "ULTRABOOST 20 SHOES",
+            "price": 126
+        },
+        {
+            "id": 10,
+            "name": "HARDEN VOL. 5 FUTURENATURAL SHOES",
+            "price": 130
+
+        }
+    ],
+    "Nike": [
+        {
+            "id": 11,
+            "name": "Kyrie 7 CNY",
+            "price": 110
+        },
+        {
+            "id": 12,
+            "name": "Nike Metcon 6 Premium",
+            "price": 140
+        },
+        {
+            "id": 13,
+            "name": "Nike Air Max Viva",
+            "price": 140
+        },
+        {
+            "id": 14,
+            "name": "Nike Waffle Racer 2X",
+            "price": 100
+        },
+        {
+            "id": 15,
+            "name": "Nike Air Max 270",
+            "price": 150
+        },
+        {
+            "id": 16,
+            "name": "LeBron 18 "Play for the Future"",
+            "price": 225
+        },
+        {
+            "id": 17,
+            "name": "Zoom Freak 2 "Play for the Future"",
+            "price": 130
+        },
+        {
+            "id": 18,
+            "name": "Nike Air Max 90 EOI",
+            "price": 110
+        },
+        {
+            "id": 19,
+            "name": "Nike Air Max 90",
+            "price": 130
+        },
+        {
+            "id": 20,
+            "name": "Nike Cosmic Unity "Amalgam"",
+            "price": 160
+        }
+    ],
+    "Puma": [
+        {
+            "id": 111,
+            "name": "Suede Classic XXI Men's Sneakers",
+            "price": 70
+        },
+        {
+            "id": 112,
+            "name": "RS-X Mothman Men's Sneakers",
+            "price": 110
+        },
+        {
+            "id": 113,
+            "name": "Deviate NITRO Men's Running Shoes",
+            "price": 160
+        },
+        {
+            "id": 114,
+            "name": "RS-Fast Futurverse Men's Sneakers",
+            "price": 110
+        },
+        {
+            "id": 115,
+            "name": "RS-X Arcade Men's Sneakers",
+            "price": 110
+        },
+        {
+            "id": 116,
+            "name": "FUSE Training Shoes",
+            "price": 90
+        },
+        {
+            "id": 117,
+            "name": "Speedcat OG+ Sparco Motorsport Shoes",
+            "price": 100
+        },
+        {
+            "id": 118,
+            "name": "Ultra Triller Jacquard Men's Running Shoes",
+            "price": 100
+        },
+        {
+            "id": 119,
+            "name": "Calibrate Runner x Kevlar® Shoes",
+            "price": 140
+        },
+        {
+            "id": 120,
+            "name": "BMW M Motorsport Future Rider Men's Sneakers",
+            "price": 90
+        }
+    ],
+    "New balance": [
+        {
+            "id": 1111,
+            "name": "Mens Made in US 993",
+            "price": 175
+        },
+        {
+            "id": 1112,
+            "name": "Fresh Foam Roav",
+            "price": 80
+        },
+        {
+            "id": 1113,
+            "name": "Fresh Foam 1080v11",
+            "price": 150
+        },
+        {
+            "id": 1114,
+            "name": "Fresh Foam 860v11",
+            "price": 130
+        },
+        {
+            "id": 1115,
+            "name": "574 Core",
+            "price": 80
+        },
+        {
+            "id": 1116,
+            "name": "TWO WXY",
+            "price": 140
+        },
+        {
+            "id": 1117,
+            "name": "CFresh Foam 860v11",
+            "price": 130
+        },
+        {
+            "id": 1118,
+            "name": "Fresh Foam 880v11",
+            "price": 130
+        },
+        {
+            "id": 1119,
+            "name": "Fresh Foam 3000v5 Turf",
+            "price": 85
+        },
+        {
+            "id": 1120,
+            "name": "Fresh Foam Roav Backpack",
+            "price": 80
+        }
+    ],
+    "Vans": [
+        {
+            "id": 11111,
+            "name": "BANDANA CLASSIC SLIP-ON",
+            "price": 55
+        },
+        {
+            "id": 11112,
+            "name": "BANDANA SK8-HI",
+            "price": 75
+        },
+        {
+            "id": 11113,
+            "name": "VANS X PENN LOWLAND CC",
+            "price": 110
+        },
+        {
+            "id": 11114,
+            "name": "VANS X PENN COMFYCUSH SLIP-ON",
+            "price": 90
+        },
+        {
+            "id": 11115,
+            "name": "CUSTOMS PAISLEY PATCHWORK OLD SKOOL",
+            "price": 80
+        },
+        {
+            "id": 11116,
+            "name": "RETRO MART SK8-HI",
+            "price": 75
+        },
+        {
+            "id": 11117,
+            "name": "CLASSIC SLIP-ONr",
+            "price": 55
+        },
+        {
+            "id": 11118,
+            "name": "SK8-HI",
+            "price": 70
+        },
+        {
+            "id": 11119,
+            "name": "ERA",
+            "price": 50
+        },
+        {
+            "id": 11120,
+            "name": "ANAHEIM FACTORY AUTHENTIC 44 DX",
+            "price": 75
+        }
+    ]
+}
